@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    /* border:1px solid black; */
+}
+
+body {
+    margin: 0;
+    background-color: #e8e8ee;
+}
+
+.beverage-image {
+    height: 90;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    padding: 0;
+    border: 2px solid #100e08;
+}
+
+.content{
+    width: 90%;
+    margin: 1em auto;
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    color: whitesmoke;
+    /* background-color: rgb(6, 6, 36); */
+    background-color: #100e08;
+    margin-top: 0;
+}
+
+h2{
+    font-size: 2rem;
+    margin: 10px auto;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    padding:0 1em ;
+    font-size: 1.2em;
+}
+
+a{
+display: block;
+background: #100e08;
+color: white;
+text-decoration: none;
+padding: 0.8em;
+text-align: center;
+width: 20%;
+margin: 1em auto;
+font-family: 'Courier New', Courier, monospace;
+}
