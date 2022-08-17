@@ -48,4 +48,6 @@ li>a {
     margin: 1em auto;
     font-size: 1.1em;
     font-family: 'Courier New', Courier, monospace ;
+    border-radius: 8px;
+    min-width: 16em;
 }
