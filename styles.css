@@ -41,9 +41,10 @@ li>a {
     background: #100e08;
     color: white;
     text-decoration: none;
-    padding: 0.8em;
+    padding: 0.8em max(1em,2vw) ;
+    margin: 0.8em 1em;
     text-align: center;
-    width: 120%;
+    width: 100%;
     margin: 1em auto;
     font-size: 1.1em;
     font-family: 'Courier New', Courier, monospace ;
